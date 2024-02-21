@@ -11,3 +11,4 @@ pip install mlflow
 
 ## Images
 ![Imgur](https://imgur.com/fTmp5sA.png)
+![Imgur](https://imgur.com/k2P9w74.png)
