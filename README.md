@@ -4,7 +4,7 @@ The example illustrates how to use the MLflow logging API to start an MLflow run
 - Sign in to the Azure cloud account with administrative privileges.
 - Create Azure Databricks workspace
 - from Microsoft Azure Databricks open the notebook
-- install the MLflow library from PyPI 
+- If you are using a cluster running Databricks Runtime, you must install the MLflow library from PyPI 
 ```
 pip install MLflow
 ```
