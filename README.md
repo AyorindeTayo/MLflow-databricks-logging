@@ -6,11 +6,15 @@ The example illustrates how to use the MLflow logging API to start an MLflow run
 - from Microsoft Azure Databricks open the notebook
 - install the MLflow library from PyPI 
 ```
-pip install mlflow
+pip install MLflow
 ```
 
 ## Images
+
 ![Imgur](https://imgur.com/fTmp5sA.png)
 
+![Imgur](https://imgur.com/EhWEHt4.png)
+
+![Imgur](https://imgur.com/6EXIET6.png)
 
 ![Imgur](https://imgur.com/k2P9w74.png)
